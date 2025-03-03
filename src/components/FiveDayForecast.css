@@ -1,0 +1,28 @@
+.forecast-container {
+    background-color: #4B5563;
+    color: white;
+    border-radius: 0.5rem;
+    width: 200px;
+    padding: 15px;
+}
+
+.forecast-item {
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.forecast-temp {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.forecast-date {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.forecast-description {
+    font-size: 15px;
+}
