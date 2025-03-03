@@ -159,6 +159,14 @@ const TodayHighlights = ({ weatherData, airQualityData }) => {
             width: "410px",
             transition: "transform 0.4s ease, box-shadow 0.4s ease",
           }}
+          onMouseEnter={(e) => {
+            e.currentTarget.style.transform = "scale(1.05)";
+            e.currentTarget.style.boxShadow = "0px 8px 16px rgba(0, 0, 0, 0.2)";
+          }}
+          onMouseLeave={(e) => {
+            e.currentTarget.style.transform = "scale(1)";
+            e.currentTarget.style.boxShadow = "none";
+          }}
         >
           <div style={{ fontSize: "22px" }}>
             <p style={{ marginLeft: "100px" }}>Sunrise And Sunset</p>
